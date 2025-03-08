@@ -1,5 +1,3 @@
-Here's a simple README.md for the flatten.sh script:
-markdown
 # flatten.sh
 
 A Bash script that decompresses archives and flattens directory structures.
